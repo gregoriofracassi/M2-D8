@@ -1,0 +1,39 @@
+ul {
+    list-style-type: none;
+    padding-inline-start: 0;
+    color: blue;
+}
+
+li{
+    cursor: pointer;
+}
+
+.small-font {
+    font-size: 14px;
+}
+.smaller-font {
+    font-size: 12px;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  .red {
+    background-color: green;
+    height: 400px;
+  }
+  .blue {
+    background-color: blue;
+  }
+  .yellow {
+    background-color: yellow;
+  }
+  .rounded-left {
+    border-top-left-radius: 1rem !important;
+    border-bottom-left-radius: 1rem !important;
+  }
+  .rounded-right {
+    border-top-right-radius: 1rem !important;
+    border-bottom-right-radius: 1rem !important;
+  }
